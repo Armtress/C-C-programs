@@ -1,0 +1,19 @@
+Solve the problem of dividing an integer array into two subarrays
+
+The set a consisting of n positive integers is known
+
+Now we want to divide it into two disjoint subsets A1, A2
+
+Meet:
+
+The difference in the number of elements between the two subsets is the smallest
+
+The difference between the sum of the elements of the two subsets is the largest
+
+
+求解一个整数数组划分为两个子数组的问题
+	已知由n个正整数构成的集合a
+	现在要将其划分为两个不相交的子集a1,a2
+	满足：
+		两个子集的元素个数相差最小
+		两个子集的元素之和相差最大
