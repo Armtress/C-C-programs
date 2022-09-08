@@ -1,0 +1,12 @@
+The language of this program is C++
+The compiler used by this program is visual studio 2022
+This program can connect to my SQL
+
+In many enterprises, employee management is an indispensable part of management, so we need to build a management 
+system to manage their job number, name and other information, so as to facilitate management by managers.
+
+此程序使用的语言是C++
+此程序使用的编译器是Visual Studio 2022
+此程序可连接My SQL
+
+在很多企业中，员工管理是一个不可缺失的管理部分，所以我们需要做一个管理系统来管理他们的工号姓名等信息，以方便管理人员进行管理。
