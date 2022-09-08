@@ -9,4 +9,4 @@ Each folder has its own source code. Corresponding notes have been provided. All
 
 这是作者在上大学期间，做出来的一些项目成果，这些项目均在大学老师的考核中获得了较为优秀的成绩。以此在这个博客记录下来。
 
-每个文件夹都有对应的源代码。相应的注释已经配备。均使用Visual C++ 2022 编写而成。
+每个文件夹都有对应的源代码。相应的注释已经配备。均使用Visual Studio 2022 编写而成。
