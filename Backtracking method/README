@@ -1,0 +1,12 @@
+There are N jobs and completion deadline constraints
+
+Each job takes 1 time
+
+If the work exceeds the completion deadline, a fine shall be paid
+
+Solve the scheme with the least penalty.
+
+有n个作业，还有完成期限约束
+每个作业耗费1点时间
+超过完成期限的作业需要缴纳罚款
+求解罚款最少的方案。
